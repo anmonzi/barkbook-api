@@ -1,0 +1,814 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Henry Mendez",
+      "email": "henrymendez5@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Sam Carlson",
+      "email": "sammie56@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Mitchell Shelton",
+      "email": "shelton92043@gmail.com",
+      "locationId": 41,
+      "imageURL": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Ken Schmidt",
+      "email": "schmidtrules98@gmail.com",
+      "locationId": 115,
+      "imageURL": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1222&q=80",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Natasha Walton",
+      "email": "tashaboo34@gmail.com",
+      "locationId": 117,
+      "imageURL": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Heidi Parker",
+      "email": "heidiparker3@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "description": "Hey everyone! I'm a med student with a cute mini poodle who's looking to meet some new friends. I love wine, reading books, getting out for walks in nature, and really good company. Hope we can connect!"
+    },
+    {
+      "id": 7,
+      "name": "Heather Dixon",
+      "email": "hdixon8932@gmail.com",
+      "locationId": 117,
+      "imageURL": "https://images.unsplash.com/photo-1578616070222-50c4de9d5ade?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=712&q=80",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name": "Joshua Wright",
+      "email": "wright829joshua@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name": "Aja Washington",
+      "email": "aja@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://media-exp3.licdn.com/dms/image/C4E03AQHo3Hfd0_TtBQ/profile-displayphoto-shrink_800_800/0/1616518666319?e=1628726400&v=beta&t=VgX_0_v4-RVKgPoHdlzS-32IapC3ggzyZ23CYTlWHmQ",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Pete Newman",
+      "email": "petenewman9022434@gmail.com",
+      "locationId": 41,
+      "imageURL": "https://images.unsplash.com/photo-1602268806507-0ac045af9c64?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name": "Kari Greer",
+      "email": "kgreer@gmail.com",
+      "locationId": 86,
+      "imageURL": "https://images.unsplash.com/photo-1508002366005-75a695ee2d17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=617&q=80",
+      "description": ""
+    },
+    {
+      "name": "Sarah Barker",
+      "email": "sarah45barker@gmail.com",
+      "locationId": 45,
+      "imageURL": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "description": "I love wine.",
+      "id": 12
+    },
+    {
+      "name": "Jake West",
+      "email": "jake87west@aol.com",
+      "locationId": 35,
+      "imageURL": "https://images.unsplash.com/photo-1607031542107-f6f46b5d54e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "description": "I love to get on my skateboard whenever possible. The best times are with good vibes.",
+      "id": 13
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Chico",
+      "userId": 1,
+      "animalEnergyLevelId": 1,
+      "animalSizeId": 1,
+      "imageURL": "https://www.thesprucepets.com/thmb/2UghItm9t7Oa57nT5KU3qv7rqxw=/3442x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adorable-tiny-puppy-posing-outdoors-610004826-5c8be6f3c9e77c0001eb1bdd.jpg",
+      "age": "1",
+      "animalGenderId": 1,
+      "breed": "Chihuahua",
+      "description": "Chico runs the show! She has a great personality and is ok with all dog sizes, however, she doesn't get along with puppies. "
+    },
+    {
+      "id": 2,
+      "name": "Hercules",
+      "userId": 2,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 2,
+      "imageURL": "https://www.thepaws.net/wp-content/uploads/2019/09/teacup-dog-names.jpg",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "Pomeranian",
+      "description": "Hercules has some spunk and with the right friend, he'll have loads of fun chasing them around. Great with other small breeds but a little hesitant with larger dogs."
+    },
+    {
+      "id": 3,
+      "name": "Murphy",
+      "userId": 3,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 2,
+      "imageURL": "http://toyaustralianshepherdshop.com/wp-content/uploads/2016/08/top-ten-things-help-decide-whether-keep-toy-australian-shepherd-768x548.jpg",
+      "age": "4",
+      "animalGenderId": 2,
+      "breed": "Toy Australian Shepherd",
+      "description": "Murphy LOVES to chill, but with the right friend he's down to run around and play chase. He's good with sharing toys and loves to fetch a ball...here or there."
+    },
+    {
+      "id": 4,
+      "name": "Stella",
+      "userId": 4,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 2,
+      "imageURL": "https://images.unsplash.com/photo-1560829571-6e9583e4a71a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "age": "2.5",
+      "animalGenderId": 1,
+      "breed": "Toy Australian Shepherd",
+      "description": "Stella loves to fetch a ball... for hours on end. She's little but loves other friends and is always down for a good romp."
+    },
+    {
+      "id": 5,
+      "name": "Ralph",
+      "userId": 5,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 4,
+      "imageURL": "https://images.unsplash.com/photo-1591275869451-33f202bc26a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "age": "4",
+      "animalGenderId": 2,
+      "breed": "Boston Terrier",
+      "description": "Ralph loves adventure! He's great on hikes but could also be a couch potato. He's good with smaller dogs but is a little shy around larger breeds."
+    },
+    {
+      "id": 6,
+      "name": "Max",
+      "userId": 6,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 3,
+      "imageURL": "https://images.unsplash.com/photo-1513189643435-49f97650b367?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "age": "6",
+      "animalGenderId": 2,
+      "breed": "Miniature Poodle",
+      "description": "Don't let Max's age fool you.. he's still got a lot of spunk in him. He's really good at being chill but does need to get out and stretch the legs, if you know what I mean. He loves to be chased and is known to make friends everywhere he goes. He is a little shy around bigger dogs at first but gets over that quickly."
+    },
+    {
+      "id": 7,
+      "name": "Milo",
+      "userId": 7,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://images.unsplash.com/photo-1530435385504-e37a3d76958b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "age": "3",
+      "animalGenderId": 1,
+      "breed": "Australian Cattle Dog",
+      "description": "Milo loves to run any agility course we can find. Typically, she's herding other dogs around so she's definitely in charge... but super sweet."
+    },
+    {
+      "id": 8,
+      "name": "Mabel",
+      "userId": 8,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 6,
+      "imageURL": "https://i.pinimg.com/originals/5e/d2/c4/5ed2c4d6a8a1b645bc81a41a53f95132.jpg",
+      "age": "5",
+      "animalGenderId": 1,
+      "breed": "Bernedoodle",
+      "description": "Mabel is an absolute sweet heart. She'll play with just about any dog and is super gentle around smaller breeds. Give her a stick to fetch and she'll be content."
+    },
+    {
+      "id": 9,
+      "name": "Danny",
+      "userId": 9,
+      "animalEnergyLevelId": 1,
+      "animalSizeId": 7,
+      "imageURL": "https://dogfriendlyscene.co.uk/wp-content/uploads/2020/11/Great-Dane.png",
+      "age": "8",
+      "animalGenderId": 2,
+      "breed": "Great Dane",
+      "description": "Danny loves to watch the world happen around him. Super chill dude and loves all other breeds and sizes."
+    },
+    {
+      "id": 10,
+      "name": "Gus",
+      "userId": 11,
+      "animalEnergyLevelId": 1,
+      "animalSizeId": 4,
+      "imageURL": "https://images.unsplash.com/photo-1586713471521-2325b2b674e4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "age": "5",
+      "animalGenderId": 2,
+      "breed": "French Bulldog",
+      "description": "Gus is the perfect chill little dude. Super friendly but doesn't like men much so it might take awhile for him to warm up to you. Otherwise he's looking to make some furry connections!"
+    }
+  ],
+  "animalGenders": [
+    {
+      "id": 1,
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "gender": "Male"
+    }
+  ],
+  "animalEnergyLevels": [
+    {
+      "id": 1,
+      "energyLevel": "Low"
+    },
+    {
+      "id": 2,
+      "energyLevel": "Moderate"
+    },
+    {
+      "id": 3,
+      "energyLevel": "High"
+    }
+  ],
+  "animalSize": [
+    {
+      "id": 1,
+      "size": "Teacup"
+    },
+    {
+      "id": 2,
+      "size": "Toy"
+    },
+    {
+      "id": 3,
+      "size": "Miniature"
+    },
+    {
+      "id": 4,
+      "size": "Small"
+    },
+    {
+      "id": 5,
+      "size": "Medium"
+    },
+    {
+      "id": 6,
+      "size": "Large"
+    },
+    {
+      "id": 7,
+      "size": "Giant"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Amqui"
+    },
+    {
+      "id": 2,
+      "name": "Antioch"
+    },
+    {
+      "id": 3,
+      "name": "Antioch Park"
+    },
+    {
+      "id": 4,
+      "name": "Avondale"
+    },
+    {
+      "id": 5,
+      "name": "Bakers"
+    },
+    {
+      "id": 6,
+      "name": "Bakertown"
+    },
+    {
+      "id": 7,
+      "name": "Barclay Square"
+    },
+    {
+      "id": 8,
+      "name": "Bellevue"
+    },
+    {
+      "id": 9,
+      "name": "Belle Meade"
+    },
+    {
+      "id": 10,
+      "name": "Bellshire"
+    },
+    {
+      "id": 11,
+      "name": "Benbar"
+    },
+    {
+      "id": 12,
+      "name": "Berryville"
+    },
+    {
+      "id": 13,
+      "name": "Berry Hill"
+    },
+    {
+      "id": 14,
+      "name": "Beverly Heights"
+    },
+    {
+      "id": 15,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 16,
+      "name": "Bordeaux Hills"
+    },
+    {
+      "id": 17,
+      "name": "Brooklin"
+    },
+    {
+      "id": 18,
+      "name": "Brooklyn Heights"
+    },
+    {
+      "id": 19,
+      "name": "Brookview Estates"
+    },
+    {
+      "id": 20,
+      "name": "Buena Vista Estates"
+    },
+    {
+      "id": 21,
+      "name": "Cane Ridge"
+    },
+    {
+      "id": 22,
+      "name": "Castlegate Estates"
+    },
+    {
+      "id": 23,
+      "name": "Charlotte Park"
+    },
+    {
+      "id": 24,
+      "name": "Cherokee Park"
+    },
+    {
+      "id": 25,
+      "name": "Cherry Hills"
+    },
+    {
+      "id": 26,
+      "name": "Cloverhill"
+    },
+    {
+      "id": 27,
+      "name": "Cloverland Acres"
+    },
+    {
+      "id": 28,
+      "name": "Colewood Acres"
+    },
+    {
+      "id": 29,
+      "name": "Couchville"
+    },
+    {
+      "id": 30,
+      "name": "Crieve Hall"
+    },
+    {
+      "id": 31,
+      "name": "Cumberland Heights"
+    },
+    {
+      "id": 32,
+      "name": "Dalemere"
+    },
+    {
+      "id": 33,
+      "name": "Dalewood"
+    },
+    {
+      "id": 34,
+      "name": "Donelson"
+    },
+    {
+      "id": 35,
+      "name": "East Nashville"
+    },
+    {
+      "id": 36,
+      "name": "Edenwold"
+    },
+    {
+      "id": 37,
+      "name": "Edge-O-Lake Estates"
+    },
+    {
+      "id": 38,
+      "name": "Fair Oaks"
+    },
+    {
+      "id": 39,
+      "name": "Forest Grove"
+    },
+    {
+      "id": 40,
+      "name": "Forest Hills"
+    },
+    {
+      "id": 41,
+      "name": "Germantown"
+    },
+    {
+      "id": 42,
+      "name": "Glencliff"
+    },
+    {
+      "id": 43,
+      "name": "Glendale Park"
+    },
+    {
+      "id": 44,
+      "name": "Glenview"
+    },
+    {
+      "id": 45,
+      "name": "Green Hills"
+    },
+    {
+      "id": 46,
+      "name": "Greenville"
+    },
+    {
+      "id": 47,
+      "name": "Goodlettsville"
+    },
+    {
+      "id": 48,
+      "name": "Harpeth River Estates"
+    },
+    {
+      "id": 49,
+      "name": "Haysboro"
+    },
+    {
+      "id": 50,
+      "name": "Hermitage"
+    },
+    {
+      "id": 51,
+      "name": "Hermitage Hills"
+    },
+    {
+      "id": 52,
+      "name": "Hermitage Woods"
+    },
+    {
+      "id": 53,
+      "name": "Hickory Valley Estates"
+    },
+    {
+      "id": 54,
+      "name": "Hopewell"
+    },
+    {
+      "id": 55,
+      "name": "Huntington Ridge Estates"
+    },
+    {
+      "id": 56,
+      "name": "Inglewood"
+    },
+    {
+      "id": 57,
+      "name": "Iroquois Meadows"
+    },
+    {
+      "id": 58,
+      "name": "Ivy Point"
+    },
+    {
+      "id": 59,
+      "name": "Joelton"
+    },
+    {
+      "id": 60,
+      "name": "Jordonia"
+    },
+    {
+      "id": 61,
+      "name": "Kenilworth Estates"
+    },
+    {
+      "id": 62,
+      "name": "Kimbro"
+    },
+    {
+      "id": 63,
+      "name": "Lakewood"
+    },
+    {
+      "id": 64,
+      "name": "Lickton"
+    },
+    {
+      "id": 65,
+      "name": "Lincoya Hills"
+    },
+    {
+      "id": 66,
+      "name": "Linton"
+    },
+    {
+      "id": 67,
+      "name": "Little Creek"
+    },
+    {
+      "id": 68,
+      "name": "Madison"
+    },
+    {
+      "id": 69,
+      "name": "Maplewood"
+    },
+    {
+      "id": 70,
+      "name": "Merry Oaks"
+    },
+    {
+      "id": 71,
+      "name": "Montague"
+    },
+    {
+      "id": 72,
+      "name": "Monte Carlo Estates"
+    },
+    {
+      "id": 73,
+      "name": "Morny"
+    },
+    {
+      "id": 74,
+      "name": "Mount View"
+    },
+    {
+      "id": 75,
+      "name": "Mudtavern"
+    },
+    {
+      "id": 76,
+      "name": "Myrtlewood Estates"
+    },
+    {
+      "id": 77,
+      "name": "Nashboro Village"
+    },
+    {
+      "id": 78,
+      "name": "Nashville"
+    },
+    {
+      "id": 79,
+      "name": "Newsom"
+    },
+    {
+      "id": 80,
+      "name": "North Hills Estates"
+    },
+    {
+      "id": 81,
+      "name": "Northcreek Commons"
+    },
+    {
+      "id": 82,
+      "name": "Oak Hill"
+    },
+    {
+      "id": 83,
+      "name": "Oak Hill Estates"
+    },
+    {
+      "id": 84,
+      "name": "Oakwood Terrace"
+    },
+    {
+      "id": 85,
+      "name": "Oglesby"
+    },
+    {
+      "id": 86,
+      "name": "Old Hickory"
+    },
+    {
+      "id": 87,
+      "name": "Paragon Mills"
+    },
+    {
+      "id": 88,
+      "name": "Parkwood Estates"
+    },
+    {
+      "id": 89,
+      "name": "Pasquo"
+    },
+    {
+      "id": 90,
+      "name": "Pebble Creek"
+    },
+    {
+      "id": 91,
+      "name": "Phillips"
+    },
+    {
+      "id": 92,
+      "name": "Priest Lake Park"
+    },
+    {
+      "id": 93,
+      "name": "Providence"
+    },
+    {
+      "id": 94,
+      "name": "Radnor"
+    },
+    {
+      "id": 95,
+      "name": "Rayon City"
+    },
+    {
+      "id": 96,
+      "name": "Richland"
+    },
+    {
+      "id": 97,
+      "name": "Ridgetop"
+    },
+    {
+      "id": 98,
+      "name": "Rosebank"
+    },
+    {
+      "id": 99,
+      "name": "Rural Hill"
+    },
+    {
+      "id": 100,
+      "name": "Scottsboro"
+    },
+    {
+      "id": 101,
+      "name": "Seventeen Seventysix Estates"
+    },
+    {
+      "id": 102,
+      "name": "Sherwood Forest"
+    },
+    {
+      "id": 103,
+      "name": "Smith Springs"
+    },
+    {
+      "id": 104,
+      "name": "Solitude Acres"
+    },
+    {
+      "id": 105,
+      "name": "Town Park Estates"
+    },
+    {
+      "id": 106,
+      "name": "Travis"
+    },
+    {
+      "id": 107,
+      "name": "Tulip Grove"
+    },
+    {
+      "id": 108,
+      "name": "Tusculum"
+    },
+    {
+      "id": 109,
+      "name": "Una"
+    },
+    {
+      "id": 110,
+      "name": "Union Hill"
+    },
+    {
+      "id": 111,
+      "name": "Vaughns Gap"
+    },
+    {
+      "id": 112,
+      "name": "Walnut Hills"
+    },
+    {
+      "id": 113,
+      "name": "West"
+    },
+    {
+      "id": 114,
+      "name": "West Meade"
+    },
+    {
+      "id": 115,
+      "name": "West Nashville"
+    },
+    {
+      "id": 116,
+      "name": "Whispering Hills"
+    },
+    {
+      "id": 117,
+      "name": "Whites Creek"
+    },
+    {
+      "id": 118,
+      "name": "Williams Hills"
+    },
+    {
+      "id": 119,
+      "name": "Woodbine"
+    },
+    {
+      "id": 120,
+      "name": "Wrencoe"
+    }
+  ],
+  "parks": [],
+  "directMessages": [
+    {
+      "id": 1,
+      "subject": "Testing, testing, does this app work?",
+      "message": "Creating the data structure for your Capstone project, how are the messages going?",
+      "read": false,
+      "recipientId": 2,
+      "userId": 1,
+      "date": 1623358708480
+    },
+    {
+      "id": 2,
+      "subject": "I think our dogs would really like each other!",
+      "message": "Hey there! I'm in the same area and think our furry guys would play well with one another. Let me know if you're interested!",
+      "read": false,
+      "recipientId": 6,
+      "userId": 7,
+      "date": 1623435214167
+    },
+    {
+      "id": 3,
+      "subject": "Hey Neighbor!",
+      "message": "Hey there! I'm in the same area and think our furry guys would play well with one another. Let me know if you're interested!",
+      "read": false,
+      "recipientId": 1,
+      "userId": 10,
+      "date": 1623358708480
+    },
+    {
+      "id": 4,
+      "subject": "Couch potatoes are the best!",
+      "message": "Hey there! I'm in the same area and think our furry guys would play well with one another. Let me know if you're interested!",
+      "read": false,
+      "recipientId": 3,
+      "userId": 5,
+      "date": 1623358708480
+    },
+    {
+      "id": 5,
+      "subject": "Frisbie loving dog looking for a friend.",
+      "message": "Hey there! I'm in the same area and think our furry guys would play well with one another. Let me know if you're interested!",
+      "read": false,
+      "recipientId": 5,
+      "userId": 9,
+      "date": 1623358708480
+    }
+  ]
+}
