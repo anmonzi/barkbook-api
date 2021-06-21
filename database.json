@@ -12,9 +12,9 @@
       "id": 2,
       "name": "Sam Carlson",
       "email": "sammie56@gmail.com",
-      "locationId": 35,
+      "locationId": 12,
       "imageURL": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
-      "description": ""
+      "description": "Hey y’all, I’m Sam, and I love to get outside to hit the trails at Percy Warner with my dog Hercules. Don’t let his size full you though, he’s got loads of energy and can take on the biggest dog at the park (hence the name). More about me though, I love craft beer and frequently get out to the breweries around town. I’m a graphic designer by day and drummer by night and love good company."
     },
     {
       "id": 3,
@@ -36,17 +36,16 @@
       "id": 5,
       "name": "Natasha Walton",
       "email": "tashaboo34@gmail.com",
-      "locationId": 117,
+      "locationId": 8,
       "imageURL": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
       "description": ""
     },
     {
       "id": 6,
       "name": "Heidi Parker",
-      "email": "heidiparker3@gmail.com",
-      "locationId": 8,
+      "locationId": 4,
       "imageURL": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
-      "description": "Hey everyone! I'm a med student with a cute mini poodle who's looking to meet some new friends. I love wine, reading books, getting out for walks in nature, and really good company. Hope we can connect!"
+      "description": "Hey everyone! I'm a doctor with a cute mini poodle who's looking to meet some new friends. I love wine, reading books, getting out for walks in nature, and really good company. Hope we can connect!"
     },
     {
       "id": 7,
@@ -59,10 +58,9 @@
     {
       "id": 8,
       "name": "Joshua Wright",
-      "email": "wright829joshua@gmail.com",
       "locationId": 8,
       "imageURL": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80",
-      "description": ""
+      "description": "Hey everyone! I live in Bellevue and love to get outdoors. One of my favorite things to do is longboard on the greenway by Percy Warner with my dood."
     },
     {
       "id": 9,
@@ -103,6 +101,14 @@
       "imageURL": "https://images.unsplash.com/photo-1607031542107-f6f46b5d54e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
       "description": "I love to get on my skateboard whenever possible. The best times are with good vibes.",
       "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Sarah Bull",
+      "email": "sarah@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://images.unsplash.com/photo-1569124589354-615739ae007b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "description": "Hello! I'm a creative living in East Nashville and bartend during the week. I love making craft cocktails as it allows me to express myself creatively. I also love to get outdoors and hike or just curl up and read a good book. Looking forward to meeting everyone!\n"
     }
   ],
   "animals": [
@@ -122,7 +128,7 @@
       "id": 2,
       "name": "Hercules",
       "userId": 2,
-      "animalEnergyLevelId": 2,
+      "animalEnergyLevelId": 3,
       "animalSizeId": 2,
       "imageURL": "https://www.thepaws.net/wp-content/uploads/2019/09/teacup-dog-names.jpg",
       "age": "3",
@@ -158,10 +164,10 @@
       "id": 5,
       "name": "Ralph",
       "userId": 5,
-      "animalEnergyLevelId": 2,
+      "animalEnergyLevelId": 1,
       "animalSizeId": 4,
       "imageURL": "https://images.unsplash.com/photo-1591275869451-33f202bc26a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
-      "age": "4",
+      "age": "7",
       "animalGenderId": 2,
       "breed": "Boston Terrier",
       "description": "Ralph loves adventure! He's great on hikes but could also be a couch potato. He's good with smaller dogs but is a little shy around larger breeds."
@@ -225,6 +231,30 @@
       "animalGenderId": 2,
       "breed": "French Bulldog",
       "description": "Gus is the perfect chill little dude. Super friendly but doesn't like men much so it might take awhile for him to warm up to you. Otherwise he's looking to make some furry connections!"
+    },
+    {
+      "name": "Brutus",
+      "userId": 13,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 5,
+      "imageURL": "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1351&q=80",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "Pit Bull",
+      "description": "Loves to love.",
+      "id": 11
+    },
+    {
+      "name": "Scout",
+      "userId": 14,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 4,
+      "imageURL": "https://images.unsplash.com/photo-1601758064224-c3c5ec910095?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1694&q=80",
+      "age": "2",
+      "animalGenderId": 2,
+      "breed": "Mix",
+      "description": "Scout is a really chill dog but can easily pick up on any vibe. He's great with smaller dogs but a little hesitant with larger dogs. If he feels intimidated he may nip the air but he's never actually done harm to another dog. He's definitely a momma's boy. Oh, and he's great around female dogs. \n",
+      "id": 12
     }
   ],
   "animalGenders": [
@@ -251,7 +281,7 @@
       "energyLevel": "High"
     }
   ],
-  "animalSize": [
+  "animalSizes": [
     {
       "id": 1,
       "size": "Teacup"
@@ -700,80 +730,178 @@
     },
     {
       "id": 105,
-      "name": "Town Park Estates"
+      "name": "South Nashville"
     },
     {
       "id": 106,
-      "name": "Travis"
+      "name": "Town Park Estates"
     },
     {
       "id": 107,
-      "name": "Tulip Grove"
+      "name": "Travis"
     },
     {
       "id": 108,
-      "name": "Tusculum"
+      "name": "Tulip Grove"
     },
     {
       "id": 109,
-      "name": "Una"
+      "name": "Tusculum"
     },
     {
       "id": 110,
-      "name": "Union Hill"
+      "name": "Una"
     },
     {
       "id": 111,
-      "name": "Vaughns Gap"
+      "name": "Union Hill"
     },
     {
       "id": 112,
-      "name": "Walnut Hills"
+      "name": "Vaughns Gap"
     },
     {
       "id": 113,
-      "name": "West"
+      "name": "Walnut Hills"
     },
     {
       "id": 114,
-      "name": "West Meade"
+      "name": "Wedgewood - Houston"
     },
     {
       "id": 115,
-      "name": "West Nashville"
+      "name": "West"
     },
     {
       "id": 116,
-      "name": "Whispering Hills"
+      "name": "West Meade"
     },
     {
       "id": 117,
-      "name": "Whites Creek"
+      "name": "West Nashville"
     },
     {
       "id": 118,
-      "name": "Williams Hills"
+      "name": "Whispering Hills"
     },
     {
       "id": 119,
-      "name": "Woodbine"
+      "name": "Whites Creek"
     },
     {
       "id": 120,
+      "name": "Williams Hills"
+    },
+    {
+      "id": 121,
+      "name": "Woodbine"
+    },
+    {
+      "id": 122,
       "name": "Wrencoe"
     }
   ],
-  "parks": [],
-  "directMessages": [
+  "parks": [
     {
       "id": 1,
-      "subject": "Testing, testing, does this app work?",
-      "message": "Creating the data structure for your Capstone project, how are the messages going?",
-      "read": false,
-      "recipientId": 2,
-      "userId": 1,
-      "date": 1623358708480
+      "name": "Centennial Dog Park",
+      "locationId": 78,
+      "address": "2500 West End Ave, Nashville, TN, US, 37203",
+      "description": "Your pet will go wild for the chance to play off-leash at this fenced dog park, which includes a separate small dog area. Dogs must be vaccinated and licensed. Dogs are also allowed on the walking trails and open fields outside the park too. Public parking can be found at the Centennial Sportsplex on 25th Ave N."
     },
+    {
+      "id": 2,
+      "name": "Shelby Dog Park",
+      "locationId": 35,
+      "address": "401 S 20th St, Behind the Shelby Park Community Center, Nashville, TN, US, 37206",
+      "description": "Dogs are allowed to play off-leash in a designated area of this park, located behind the Shelby Park Community Center."
+    },
+    {
+      "id": 3,
+      "name": "Edwin Warner Dog Park",
+      "locationId": 112,
+      "address": "50 Vaughn Rd, Across from the sports complex, Nashville, TN, US, 37221",
+      "description": "Bring your pet to run and play off-leash at this fenced dog park, which includes benches for owners to relax on and a doggie water fountain."
+    },
+    {
+      "id": 4,
+      "name": "Two Rivers Dog Park",
+      "locationId": 65,
+      "address": "3150 McGavock Pike, Nashville, TN, US, 37214",
+      "description": "Two Rivers offers a wide open space for dogs to play, a wooded shady area, and a walking track."
+    },
+    {
+      "id": 5,
+      "name": "Riverfront Park Dog Park",
+      "locationId": 78,
+      "address": "200 1st Ave S, Nashville, TN, US, 37213",
+      "description": "This new park located along the Cumberland River in Downtown Nashville gives beautiful views of the downtown skyline, sits on 11 acres of green space and includes Nashville's first and only downtown dog park. The downtown park includes the Ascend Amphitheater, solar charging stations, an 18,000 sq foot area of botanical gardens maintained by Cheekwood Botanical Gardens, plenty of seating for picnics, or enjoying the view of the Cumberland River from one of the giant porch swings. There are even areas within the park that offer free wifi. The dog park is 13,000 square feet of fenced, eco-friendly artificial turf, and is a great place for Fido to run and play. All the water fountains and bottle filling stations in the park include a fountain for Fido as well."
+    },
+    {
+      "id": 6,
+      "name": "Nashville Fairgrounds Dog Park",
+      "locationId": 114,
+      "address": "625 Smith Ave, Nashville, TN, US, 37203",
+      "description": "Nashville Fairgrounds is now home to a dog park. This popular entertainment complex has a flea market, a speedway and hosts lots of events, but we're mainly interested in the brand spanking new dog park that they've just added. This is just part of the $275-million project that includes a Major League Soccer stadium. The car-themed, fenced-in park has agility tires, benches to relax on and AstroTurf that allows dogs to play whatever the weather. The park is open weekdays from 8:00am to 4:30pm."
+    },
+    {
+      "id": 7,
+      "name": "BarkPark",
+      "locationId": 35,
+      "address": "800 Meridian Street, Nashville, TN, US, 37207",
+      "description": "BarkPark is pet-friendly. This private dog park is a great place to join classes, meet other pups and get some exercise. The park is equipped with splash pads, paddling pools and lots of fenced-in space for fun without a leash. Humans can watch their pups play from the cool covered benches. The Day Pass is $15 and applies to one dog and two humans. Monthly passes are $39 and annual passes are $199. The park is open every day of the week from 6am to 9pm."
+    },
+    {
+      "id": 8,
+      "name": "Nashboro Village Dog Park",
+      "locationId": 77,
+      "address": "710 Nashboro Blvd, Nashville, TN, US, 37217",
+      "description": "Nashboro Village Dog Park is pet-friendly. Bring your pooch to play with other pups at this park. The park is equipped with agility gear and a green space for a game of fetch. Dog owners are reminded to keep an eye on their pups as they play in the fenced area."
+    },
+    {
+      "id": 9,
+      "name": "Gulch Dog Park",
+      "locationId": 78,
+      "address": "1216 Pine St, Nashville, TN, US, 37203",
+      "description": "Gulch Dog Park is pet-friendly. Divided into two fenced sections; a large dog area approximately 3,500 square feet and a small dog area approximately 1,500 square feet, this park isn't your run-of-the-mill canine recreation area. The space will also serve as a community hub with a food truck and gathering area approximately 2,000 square feet. The park is open every day of the week from 7am to 10pm."
+    },
+    {
+      "id": 10,
+      "name": "William A Pitts Dog Park",
+      "locationId": 109,
+      "address": "299 Tusculum Rd, Antioch, TN, US, 37013",
+      "description": "This park offers two acres of fenced-in space for dogs to play. Walking trails and a water fountain are nearby."
+    },
+    {
+      "id": 11,
+      "name": "Fenway's Dog Park at Moss-Wright Park",
+      "locationId": 47,
+      "address": "745 Caldwell Ln, Goodlettsville, TN, US, 37072",
+      "description": "Locals love this quiet, well-kept off-leash dog park, which is fully fenced with agility equipment, drinking water, trees, and benches."
+    },
+    {
+      "id": 12,
+      "name": "Stones River Greenway & Dog Park",
+      "locationId": 52,
+      "address": "Stones River Greenway Nashville, TN 37214",
+      "description": "The Stones River Greenway is a pawsome dog-friendly trail that should be on the radar of every dog-and-human duo living in or visiting Nashville. Not only is the trail well-maintained and scenic, with plenty of easy parking options and amenities, it connects two of the best dog parks in Nashville! Wherever you start your adventure on the Stones River Greenway, you'll be able to get to a dog park in five miles or less. The journey there will take you over many scenic bridges and boardwalks where you'll be shaded by trees and surrounded by the sounds of the river."
+    },
+    {
+      "id": 13,
+      "name": "Whitsett Park",
+      "locationId": 121,
+      "address": "375 Wimpole Dr, Nashville, TN 37211",
+      "description": "Cozy, dog-friendly city park featuring walking trails, a sizable playground & creek access."
+    },
+    {
+      "id": 14,
+      "name": "Percy Warner Park",
+      "locationId": 112,
+      "address": "Bransford Ave, Nashville, TN 37204",
+      "description": "Public forest & green space with hiking & equestrian trails, bicycle routes & athletic fields. Dog-friendly trails that should be on the radar of every dog-and-human duo living in Nashville."
+    }
+  ],
+  "directMessages": [
     {
       "id": 2,
       "subject": "I think our dogs would really like each other!",
@@ -809,6 +937,69 @@
       "recipientId": 5,
       "userId": 9,
       "date": 1623358708480
+    },
+    {
+      "subject": "Hey!",
+      "message": "Looks like our fur pals would get along, want to meet up for a play date?",
+      "read": false,
+      "recipientId": 7,
+      "userId": 4,
+      "date": 1624032616448,
+      "id": 8
+    },
+    {
+      "subject": "Stella looks like a great playmate!",
+      "message": "Looks like our dogs have a lot in common! Want to try having a play date?",
+      "read": false,
+      "recipientId": 4,
+      "userId": 2,
+      "date": 1624034612339,
+      "id": 9
+    },
+    {
+      "subject": "Scout needs a friend!",
+      "message": "Looks like our guys would get along! Interested in meeting up for a playdate?",
+      "read": false,
+      "recipientId": 13,
+      "userId": 14,
+      "date": 1624041103861,
+      "id": 10
+    },
+    {
+      "subject": "Hey your dog is cute",
+      "message": "I used to in Bellevue and love the parks, plus our dogs sound like they'll like each other.",
+      "read": false,
+      "recipientId": 2,
+      "userId": 14,
+      "date": 1624046118597,
+      "id": 11
+    },
+    {
+      "subject": "What's up!",
+      "message": "our dogs seem like a match for a playdate.",
+      "read": false,
+      "recipientId": 14,
+      "userId": 2,
+      "date": 1624137025072,
+      "id": 12
+    },
+    {
+      "subject": "What's up!",
+      "message": "our dogs seem like a match for a playdate.",
+      "read": true,
+      "recipientId": 2,
+      "userId": 6,
+      "date": 1624137025072,
+      "id": 13
+    },
+    {
+      "subject": "We live close!",
+      "message": "Saw your profile and I think our dogs would get along nicely. I also love to get outdoors and hike so we could possibly do the dog park or a leashed walk if you have any interest. Just let me know!",
+      "read": false,
+      "recipientId": 2,
+      "userId": 7,
+      "date": 1624307050566,
+      "id": 14
     }
   ]
 }
