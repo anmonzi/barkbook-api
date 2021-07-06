@@ -118,13 +118,13 @@
       "email": "ashton@gmail.com",
       "locationId": 35,
       "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624477582/barkbookimages/ogz8u6b9grop7h9cnink.jpg",
-      "description": "Holy shit the image updated even in the API and it stayed when I pulled it in for edit!"
+      "description": "Lover of mountains, hikes, craft IPA's, rose, beautiful views, and good times. Mom to two energetic toy poodles. "
     },
     {
       "id": 16,
       "name": "Marley Smith",
       "email": "marley@gmail.com",
-      "locationId": 2,
+      "locationId": 35,
       "imageURL": "https://images.unsplash.com/photo-1579105728744-9d6b14a45389?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=630&q=80",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor vitae. Sed elementum tempus egestas sed sed risus pretium. "
     },
@@ -143,6 +143,126 @@
       "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624652379/barkbookimages/egb5dymkkm9ndiotxer4.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
       "id": 18
+    },
+    {
+      "name": "Kate Monroe",
+      "email": "kmonroe@gmail.com",
+      "locationId": 1,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625084461/barkbookimages/lzvwlt64fz5ysnuflntm.jpg",
+      "description": "Soccer lover, ninja, guitarist, International Swiss style practitioner and growth hacker. Doing at the sweet spot between minimalism and programing to save the world from bad design. My opinions belong to nobody but myself.",
+      "id": 19
+    },
+    {
+      "name": "Jason Shepard",
+      "email": "jshep@gmail.com",
+      "locationId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625084715/barkbookimages/st270mynckau5oj8gjiz.jpg",
+      "description": "Baseball fan, self-starter, audiophile, vintage furniture lover and Guest speaker. Acting at the nexus of art and elegance to answer design problems with honest solutions. Concept is the foundation of everything else.",
+      "id": 20
+    },
+    {
+      "name": "Amal Price",
+      "email": "aprice928@gmail.com",
+      "locationId": 6,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625085984/barkbookimages/c0e3rbbug3mpioiqaxvo.jpg",
+      "description": "Cyclist, maker, guitarist, Swiss design-head and creative consultant. Acting at the fulcrum of modernism and intellectual purity to craft an inspiring, compelling and authentic brand narrative. Check me out on Dribbble or Medium.",
+      "id": 21
+    },
+    {
+      "name": "Claire Marshall",
+      "email": "cmarshall@gmail.com",
+      "locationId": 9,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625238599/barkbookimages/rdwm9oov4rduonmbj0hp.jpg",
+      "description": "Social media trailblazer. Zombie scholar. Typical music fanatic. Troublemaker. Bacon expert. Creator. Travel enthusiast.",
+      "id": 22
+    },
+    {
+      "name": "Jaden Brooks",
+      "email": "brooks@gmail.com",
+      "locationId": 7,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625239136/barkbookimages/zasrhtzbexeydxiugzaa.jpg",
+      "description": "Problem solver. Hipster-friendly social media evangelist. Twitter guru. Devoted entrepreneur.",
+      "id": 23
+    },
+    {
+      "name": "Jorden Brock",
+      "email": "jbrock@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240133/barkbookimages/vtkf8p3pxmmkrt2uzd6t.webp",
+      "description": "Professional writer. Twitter fanatic. Extreme music enthusiast. Zombie advocate. Wannabe creator.",
+      "id": 24
+    },
+    {
+      "name": "Nazia Brooks",
+      "email": "nazibrooks@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240639/barkbookimages/hmibwdunhb6bjfnoqnw8.jpg",
+      "description": "Tv buff. Web fan. Avid introvert. General beer lover. Unapologetic food fanatic. Musicaholic. Award-winning puns. Bacon guru.",
+      "id": 25
+    },
+    {
+      "name": "Corrie Romero",
+      "email": "romeroc@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240936/barkbookimages/vsxomqpntgynjfthavty.jpg",
+      "description": "Zombie evangelist. Avid writer. Tv specialist. Typical pop culture ninja. Analyst. Web fanatic.",
+      "id": 26
+    },
+    {
+      "name": "Felix Vega",
+      "email": "fvega@gmail.com",
+      "locationId": 35,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241389/barkbookimages/uehip0wavzvf2uijzuhc.webp",
+      "description": "Introvert. Coffee guru. Freelance travel scholar. Pop culture nerd. General music geek.",
+      "id": 27
+    },
+    {
+      "name": "Mai Whitley",
+      "email": "whitley928@gmail.com",
+      "locationId": 45,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241742/barkbookimages/hv1bupm4q4zt5bmnsg3d.webp",
+      "description": "Thinker. Pop culture guru. Social media scholar. Hardcore bacon maven. Explorer. Beer fanatic. Food enthusiast.",
+      "id": 28
+    },
+    {
+      "id": 29,
+      "name": "Jenny Atherton",
+      "email": "jatherton@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242284/barkbookimages/oafuidvpeweqey7ahoi9.webp",
+      "description": "Avid beer scholar. Thinker. Professional pop culture maven. Social media buff. Food expert."
+    },
+    {
+      "name": "Lyla Tyler",
+      "email": "tyler09@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242583/barkbookimages/lj3vadqbockoddczkrpx.webp",
+      "description": "Coffee specialist. Communicator. Troublemaker. Extreme pop culture nerd. Analyst. Problem solver. Wannabe reader.",
+      "id": 30
+    },
+    {
+      "name": "Sean Warner",
+      "email": "seanwarner@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242826/barkbookimages/svmc9sceuofm2igkwxws.webp",
+      "description": "Proud communicator. Internet fanatic. Entrepreneur. Passionate trailblazer. Music geek.",
+      "id": 31
+    },
+    {
+      "name": "Sean Little",
+      "email": "slittle@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625492785/barkbookimages/kevx6cugpvkiwyel4fwj.jpg",
+      "description": "Travel fanatic. Coffee nerd. Lifelong explorer. Music scholar. Prone to fits of apathy. Gamer. Food advocate. Zombie junkie.",
+      "id": 32
+    },
+    {
+      "name": "Tammy Fields",
+      "email": "tfields@gmail.com",
+      "locationId": 8,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625493073/barkbookimages/atfttti0zjqqpeexnyml.jpg",
+      "description": "Love to travel. Tv lover. Thinker. Music fanatic. Outdoor gal. Coffee evangelist.",
+      "id": 33
     }
   ],
   "animals": [
@@ -288,7 +408,7 @@
       "age": "3",
       "animalGenderId": 2,
       "breed": "Poodle",
-      "description": "Loves to be chased and to fetch a ball. Loads of love and energy in this little guy. The image stays!!"
+      "description": "Loves to be chased by his brother or any other pup, and loves to fetch a ball. Loads of love and energy in this little guy. Would do well with high energy puppers!"
     },
     {
       "id": 14,
@@ -399,52 +519,364 @@
       "description": " I am bekom fat lotsa pats much ruin diet bork pupperino heckin angery woofer borking doggo, many pats pupper thicc long water shoob. "
     },
     {
+      "id": 24,
       "name": "Meeko",
       "userId": 15,
       "animalEnergyLevelId": 2,
-      "animalSizeId": 3,
+      "animalSizeId": 2,
       "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624639087/barkbookimages/ablrlfr5fxpe7vhpczst.jpg",
       "age": "3",
       "animalGenderId": 2,
       "breed": "Poodle",
-      "description": "Meeko loves to chase his brother and pick fights. He has zero tolerance for puppies and loud noises in general. He can be a nervous dog but does well with other kindred souls. ",
-      "id": 24
+      "description": "Meeko loves to chase his brother and pick fights. He has zero tolerance for puppies and loud noises in general. He can be a nervous dog but does well with other kindred souls. "
     },
     {
-      "name": "Wynne Barron",
+      "id": 25,
+      "name": "Barron",
       "userId": 17,
       "animalEnergyLevelId": 3,
       "animalSizeId": 5,
-      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624651494/barkbookimages/qne3nsp2hkzmeppqkr20.jpg",
-      "age": "98",
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625082086/barkbookimages/vi3qa2piizzxuiasjl4r.webp",
+      "age": "3",
       "animalGenderId": 2,
-      "breed": "Maiores dicta expedi",
-      "description": "Explicabo Alias Nam",
-      "id": 25
+      "breed": "Lab Mix",
+      "description": "Explicabo Alias Nam"
     },
     {
-      "name": "Zachery Odom",
+      "id": 26,
+      "name": "Penny",
       "userId": 17,
       "animalEnergyLevelId": 2,
-      "animalSizeId": 4,
+      "animalSizeId": 5,
       "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624651584/barkbookimages/czwmad5zxxmkvvdpestr.jpg",
-      "age": "50",
+      "age": "5",
       "animalGenderId": 1,
-      "breed": "Id id qui cumque ve",
-      "description": "Eos atque in quibus",
-      "id": 26
+      "breed": "Lab Mix",
+      "description": "Eos atque in quibus"
     },
     {
-      "name": "Paula Le",
+      "id": 27,
+      "name": "Polly",
       "userId": 18,
       "animalEnergyLevelId": 1,
       "animalSizeId": 2,
       "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624652681/barkbookimages/cgrwrab1unaonmjucmh9.webp",
       "age": "3",
       "animalGenderId": 1,
-      "breed": "Illum animi cupidi",
-      "description": "Quaerat corrupti qu",
-      "id": 27
+      "breed": "Yorkie",
+      "description": "Quaerat corrupti qu"
+    },
+    {
+      "name": "Midnight",
+      "userId": 19,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 6,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625084553/barkbookimages/ullmhfbhvljiifkodpdg.jpg",
+      "age": "4",
+      "animalGenderId": 2,
+      "breed": "German Shepard",
+      "description": "Doggo ipsum blop. Very hand that feed shibe very good spot much ruin diet vvv adorable doggo maximum borkdrive extremely cuuuuuute, doing me a frighten blop ruff shibe what a nice floof.",
+      "id": 28
+    },
+    {
+      "id": 29,
+      "name": "Bandit",
+      "userId": 20,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625084774/barkbookimages/wiozi4z84wrxiacbddhw.jpg",
+      "age": "7",
+      "animalGenderId": 1,
+      "breed": "Shepard Mix",
+      "description": "Very jealous pupper ruff waggy wags wow very biscit tungg, the neighborhood pupper porgo. H*ck doggorino the neighborhood pupper bork, heckin good boys shooberino very hand that feed shibe I am bekom fat, he made many woofs pats. "
+    },
+    {
+      "name": "Barkley",
+      "userId": 21,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625086035/barkbookimages/itft0itks6behplegzyi.jpg",
+      "age": "4",
+      "animalGenderId": 1,
+      "breed": "Schnauzer",
+      "description": "Yapper most angery pupper I have ever seen borking doggo corgo, blep.  Thicc you are doing me the shock blop waggy wags pupperino, borking doggo he made many woofs.",
+      "id": 30
+    },
+    {
+      "name": "Bella",
+      "userId": 22,
+      "animalEnergyLevelId": 1,
+      "animalSizeId": 2,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625238849/barkbookimages/tkpqsxc4vowenemwzuaf.webp",
+      "age": "3",
+      "animalGenderId": 1,
+      "breed": "pomeranian",
+      "description": "Doing me a frighten maximum borkdrive woofer many pats ruff, wrinkler maximum borkdrive wow very biscit, noodle horse pupperino puggo. Clouds floofs length boy, doing me a frighten. Long bois doggo shoob, h*ck.",
+      "id": 31
+    },
+    {
+      "name": "Barkley",
+      "userId": 22,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 6,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625238972/barkbookimages/pw10ztnq5g2wmb73yttt.webp",
+      "age": "5",
+      "animalGenderId": 2,
+      "breed": "Golden Retriever",
+      "description": "Smol borking doggo with a long snoot for pats very jealous pupper boof wow such tempt, snoot. Very taste wow you are doing me the shock noodle horse thicc shooberino wow such tempt, bork tungg doggorino big ol.",
+      "id": 32
+    },
+    {
+      "name": "Alfie",
+      "userId": 23,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 4,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625239290/barkbookimages/y5dzfminol003c1ulmtn.webp",
+      "age": "4",
+      "animalGenderId": 2,
+      "breed": "Corgie",
+      "description": "Doggo ipsum doing me a frighten thicc maximum borkdrive borkf ur givin me a spook you are doing me a frighten, you are doing me the shock I am bekom fat blep doge.",
+      "id": 33
+    },
+    {
+      "name": "Ziggy",
+      "userId": 24,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 4,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240214/barkbookimages/xfswommvtgjgjh32dhxh.webp",
+      "age": "4",
+      "animalGenderId": 2,
+      "breed": "Boston Terrier ",
+      "description": "Ziggy loves to play chase with the big doggos. He can be a little bit hesitant when meeting new friends but he warms up quickly. He has had a troubled upbringing so please, aggression is not welcome. ",
+      "id": 34
+    },
+    {
+      "name": "Ace",
+      "userId": 24,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240403/barkbookimages/qgc27wcs8l5wauri31p0.webp",
+      "age": "2",
+      "animalGenderId": 2,
+      "breed": "Border Collie Mix",
+      "description": "Ace is non-stop energy and needs friends that are willing to be chased and chase. He loves being social and gets along with both males and females. Small dogs are ok as long as they aren't aggressive. ",
+      "id": 35
+    },
+    {
+      "name": "Alvin",
+      "userId": 25,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240740/barkbookimages/fgxwrfohx7r3zskmp4ps.webp",
+      "age": "1",
+      "animalGenderId": 2,
+      "breed": "Goldendoodle",
+      "description": "Doggo ipsum such treat pats doge borkf clouds very taste wow, heckin good boys floofs dat tungg tho. Shoob floofs super chub, long woofer. ",
+      "id": 36
+    },
+    {
+      "name": "Bear",
+      "userId": 25,
+      "animalEnergyLevelId": 1,
+      "animalSizeId": 2,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625240815/barkbookimages/fydlhykhguwamb9yz7lp.webp",
+      "age": "4",
+      "animalGenderId": 2,
+      "breed": "Morkie",
+      "description": "Snoot long doggo borkf shooberino porgo you are doing me a frighten doge, long woofer wow very biscit super chub borking doggo wow very biscit.",
+      "id": 37
+    },
+    {
+      "name": "Callie",
+      "userId": 26,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241034/barkbookimages/knrbkjzbaxwau3drpdzz.webp",
+      "age": "1",
+      "animalGenderId": 1,
+      "breed": "Shepard Mix",
+      "description": "Doggo ipsum heckin good boys and girls aqua doggo vvv long doggo clouds, long doggo what a nice floof. bork. Heckin good boys and girls clouds floofs lotsa pats ruff, you are doing me a frighten ur givin me a spook smol, fat boi very taste wow shooberino.",
+      "id": 38
+    },
+    {
+      "name": "Cash",
+      "userId": 26,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241139/barkbookimages/yqqomyi7d7vssmqzlyuh.webp",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "Pit Mix",
+      "description": "Snoot borkdrive shooberino smol blop fluffer very hand that feed shibe, adorable doggo puggo such treat borking doggo many pats. Long bois woofer maximum borkdrive borkdrive, yapper. ",
+      "id": 39
+    },
+    {
+      "name": "Dolly",
+      "userId": 27,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 4,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241446/barkbookimages/egdpjgoobkl2msd31pkd.webp",
+      "age": "3",
+      "animalGenderId": 1,
+      "breed": "Boston Terrier ",
+      "description": "Stop it fren shooberino very good spot yapper noodle horse, the neighborhood pupper shoober. ",
+      "id": 40
+    },
+    {
+      "name": "Clyde",
+      "userId": 27,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 6,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241530/barkbookimages/j58ozlflz8nwqydp17gv.webp",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "German Shepard",
+      "description": "Heck blep heckin good boys borkdrive, woofer smol. Noodle horse puggo length boy porgo long doggo maximum borkdrive heckin good boys, very jealous pupper big ol doge you are doing me a frighten doing me a frighten.",
+      "id": 41
+    },
+    {
+      "name": "Jade",
+      "userId": 27,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 6,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625241584/barkbookimages/b1eexclvgtjb4yhsndti.webp",
+      "age": "4",
+      "animalGenderId": 1,
+      "breed": "Husky",
+      "description": "Doggo ipsum borkdrive such treat the neighborhood pupper adorable doggo blop waggy wags, the neighborhood pupper woofer very hand that feed shibe heckin angery woofer, most angery pupper I have ever seen noodle horse such treat very taste wow. ",
+      "id": 42
+    },
+    {
+      "name": "Ivan",
+      "userId": 28,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 4,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242178/barkbookimages/qbbbqnbj9kqzvvaqq0lw.webp",
+      "age": "2",
+      "animalGenderId": 2,
+      "breed": "Corgie",
+      "description": "Maximum borkdrive I am bekom fat ruff vvv, super chub. Doge shibe you are doing me the shock shooberino very taste wow clouds, borkdrive floofs ruff. ",
+      "id": 43
+    },
+    {
+      "name": "Kali",
+      "userId": 29,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242378/barkbookimages/l5bmldoxmiwmpqqbsfkn.webp",
+      "age": "1",
+      "animalGenderId": 1,
+      "breed": "Golden Retriever",
+      "description": " Aqua doggo heck noodle horse boof vvv doggo, shoob ur givin me a spook ruff. Pupper bork doing me a frighten fluffer, dat tungg tho.",
+      "id": 44
+    },
+    {
+      "name": "Jax",
+      "userId": 29,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 2,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242437/barkbookimages/tvmqysdyugm1t0hib0de.webp",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "Maltese",
+      "description": "Heckin good boys maximum borkdrive length boy maximum borkdrive yapper blop, borkdrive pupper stop it fren. Woofer corgo clouds, h*ck. Long woofer you are doin me a concern much ruin diet, sub woofer. ",
+      "id": 45
+    },
+    {
+      "name": "Kona",
+      "userId": 30,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 6,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242673/barkbookimages/yz9axwasko4dl9ja8cwr.webp",
+      "age": "5",
+      "animalGenderId": 1,
+      "breed": "Weimaraner",
+      "description": "Heckin good boys and girls vvv blep doing me a frighten heck clouds smol borking doggo with a long snoot for pats very taste wow pupperino, big ol pupper the neighborhood pupper blop mlem doggo porgo shoob. ",
+      "id": 46
+    },
+    {
+      "name": "Miles",
+      "userId": 31,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 4,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242905/barkbookimages/ksijdfphop9s61map8j5.webp",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "French Bulldog",
+      "description": "Snoot what a nice floof mlem you are doing me a frighten wow such tempt very jealous pupper, sub woofer vvv doggo. ",
+      "id": 47
+    },
+    {
+      "name": "Charlie",
+      "userId": 31,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625242981/barkbookimages/z3fvezklbd2smwcgpv8j.jpg",
+      "age": "3",
+      "animalGenderId": 1,
+      "breed": "Shih Tzu Mix",
+      "description": "Very jealous pupper long bois boofers big ol pupper very hand that feed shibe, extremely cuuuuuute porgo floofs, very good spot woofer boofers.\n",
+      "id": 48
+    },
+    {
+      "id": 49,
+      "name": "Milo",
+      "userId": 6,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625243313/barkbookimages/fgeblwnwx1xrcuzuq3ww.jpg",
+      "age": "4",
+      "animalGenderId": 1,
+      "breed": "Border Collie",
+      "description": "Shoob long doggo long woofer floofs many pats doggo, mlem you are doing me the shock big ol pupper. Noodle horse borking doggo long doggo heck corgo big ol pupper, shoob sub woofer I am bekom fat. "
+    },
+    {
+      "name": "Ollie",
+      "userId": 32,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625492862/barkbookimages/zaytwlj4foiwutdflsor.webp",
+      "age": "6",
+      "animalGenderId": 2,
+      "breed": "Blue Heeler",
+      "description": "Doggo ipsum doge very taste wow super chub blep fat boi borkf, fluffer woofer boof fluffer. Floofs fluffer blop you are doin me a concern super chub doge, puggorino I am bekom fat shibe.",
+      "id": 50
+    },
+    {
+      "name": "Grace",
+      "userId": 32,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 5,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625492994/barkbookimages/segwgvtx8hqse9jw4esh.webp",
+      "age": "3",
+      "animalGenderId": 1,
+      "breed": "Pit Bull",
+      "description": "Doggo very hand that feed shibe such treat very good spot corgo, clouds heckin angery woofer wow very biscit. ",
+      "id": 51
+    },
+    {
+      "name": "Oscar",
+      "userId": 33,
+      "animalEnergyLevelId": 2,
+      "animalSizeId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625493180/barkbookimages/r9szckmlzv60jppruy4x.jpg",
+      "age": "2",
+      "animalGenderId": 2,
+      "breed": "Morkie",
+      "description": "Much ruin diet heckin angery woofer tungg fat boi borking doggo you are doing me a frighten doing me a frighten, super chub what a nice floof mlem blop doggo. much ruin diet puggorino heckin good boys. ",
+      "id": 52
+    },
+    {
+      "name": "Phoebe",
+      "userId": 33,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625493227/barkbookimages/lzi3zjpqh84p1y5tv01c.jpg",
+      "age": "3",
+      "animalGenderId": 1,
+      "breed": "Schnauzer",
+      "description": "Puggo shibe big ol you are doin me a concern, floofs stop it fren wow such tempt super chub, very hand that feed shibe boofers. Big ol pupper maximum borkdrive blop such treat, vvv doing me a frighten, very jealous pupper you are doin me a concern.",
+      "id": 53
     }
   ],
   "animalGenders": [
@@ -1114,8 +1546,8 @@
       "id": 8,
       "subject": "Hey!",
       "message": "Looks like our fur pals would get along, want to meet up for a play date?",
-      "read": false,
-      "recipientId": 9,
+      "read": true,
+      "recipientId": 15,
       "userId": 4,
       "date": 1624032616448
     },
@@ -1217,6 +1649,42 @@
       "recipientId": 13,
       "userId": 8,
       "date": 1624041103861
+    },
+    {
+      "subject": "If you're ever in Bellevue!",
+      "message": "Hi there! I'm Tammy and have two miniature pups looking for a friend and your boys look like the perfect match! If you're interested in a play date let me know and we can set something up :) Cheers!",
+      "read": false,
+      "recipientId": 15,
+      "userId": 33,
+      "date": 1625493488951,
+      "id": 20
+    },
+    {
+      "subject": "Could meet at a park in downtown?",
+      "message": "Hey there, I saw Argos's profile and I think he and his brother would be a great match for my dogs. Plus we have some similar interests. Let me know if you're down to get together!",
+      "read": false,
+      "recipientId": 15,
+      "userId": 31,
+      "date": 1625493652479,
+      "id": 21
+    },
+    {
+      "subject": "Hey friend!",
+      "message": "Kali and Jax are in need of some playmates and your pups seem like a great match. Would you be interested in meeting up for a playdate this Saturday? There's a dog park within Percy Warner. Let me know!",
+      "read": false,
+      "recipientId": 15,
+      "userId": 29,
+      "date": 1625493821366,
+      "id": 22
+    },
+    {
+      "subject": "Hey Ken!",
+      "message": "Sorry for the delay! Do you still want to meet up?",
+      "read": false,
+      "recipientId": 4,
+      "userId": 15,
+      "date": 1625494404434,
+      "id": 23
     }
   ]
 }
