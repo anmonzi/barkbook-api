@@ -114,11 +114,11 @@
     },
     {
       "id": 15,
-      "name": "Ashton Snow",
+      "name": "Ashton Monzi",
       "email": "ashton@gmail.com",
-      "locationId": 35,
+      "locationId": 8,
       "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624477582/barkbookimages/ogz8u6b9grop7h9cnink.jpg",
-      "description": "Lover of mountains, hikes, craft IPA's, rose, beautiful views, and good times. Mom to two energetic toy poodles. "
+      "description": "Lover of mountains, hikes, craft IPA's, rose, beautiful views, and good times. Mom to two energetic toy poodles. \n"
     },
     {
       "id": 16,
@@ -307,7 +307,7 @@
       "name": "Stella",
       "userId": 4,
       "animalEnergyLevelId": 3,
-      "animalSizeId": 2,
+      "animalSizeId": 3,
       "imageURL": "https://images.unsplash.com/photo-1560829571-6e9583e4a71a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
       "age": "2.5",
       "animalGenderId": 1,
@@ -397,18 +397,6 @@
       "breed": "Mix",
       "description": "Scout is a really chill dog but can easily pick up on any vibe. He's great with smaller dogs but a little hesitant with larger dogs. If he feels intimidated he may nip the air but he's never actually done harm to another dog. He's definitely a momma's boy. Oh, and he's great around female dogs. \n",
       "id": 12
-    },
-    {
-      "id": 13,
-      "name": "Argos",
-      "userId": 15,
-      "animalEnergyLevelId": 3,
-      "animalSizeId": 3,
-      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624570171/barkbookimages/oqilko9yq06zjipikxfc.jpg",
-      "age": "3",
-      "animalGenderId": 2,
-      "breed": "Poodle",
-      "description": "Loves to be chased by his brother or any other pup, and loves to fetch a ball. Loads of love and energy in this little guy. Would do well with high energy puppers!"
     },
     {
       "id": 14,
@@ -516,15 +504,15 @@
       "age": "4",
       "animalGenderId": 2,
       "breed": "Border Collie",
-      "description": " I am bekom fat lotsa pats much ruin diet bork pupperino heckin angery woofer borking doggo, many pats pupper thicc long water shoob. "
+      "description": " I am bekom fat lotsa pats much ruin diet bork pupperino heckin angery woofer borking doggo, many pats pupper thicc long water shoob. Love food."
     },
     {
       "id": 24,
       "name": "Meeko",
       "userId": 15,
-      "animalEnergyLevelId": 2,
+      "animalEnergyLevelId": 3,
       "animalSizeId": 2,
-      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1624639087/barkbookimages/ablrlfr5fxpe7vhpczst.jpg",
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1625598508/barkbookimages/kvrsc4md4qnmlygn8rqa.jpg",
       "age": "3",
       "animalGenderId": 2,
       "breed": "Poodle",
@@ -877,6 +865,18 @@
       "breed": "Schnauzer",
       "description": "Puggo shibe big ol you are doin me a concern, floofs stop it fren wow such tempt super chub, very hand that feed shibe boofers. Big ol pupper maximum borkdrive blop such treat, vvv doing me a frighten, very jealous pupper you are doin me a concern.",
       "id": 53
+    },
+    {
+      "id": 54,
+      "name": "Argos",
+      "userId": 15,
+      "animalEnergyLevelId": 3,
+      "animalSizeId": 3,
+      "imageURL": "https://res.cloudinary.com/dv6jdeyfx/image/upload/v1626631505/barkbookimages/fbdklmsomiipd90yx96x.jpg",
+      "age": "3",
+      "animalGenderId": 2,
+      "breed": "Poodle",
+      "description": "Loves to be chased by his brother or any other pup, and loves to fetch a ball. Loads of love and energy in this little guy. Would do well with high-energy puppers! Loves to get human food when he can.\n"
     }
   ],
   "animalGenders": [
@@ -1543,15 +1543,6 @@
       "date": 1623358708480
     },
     {
-      "id": 8,
-      "subject": "Hey!",
-      "message": "Looks like our fur pals would get along, want to meet up for a play date?",
-      "read": true,
-      "recipientId": 15,
-      "userId": 4,
-      "date": 1624032616448
-    },
-    {
       "subject": "Stella looks like a great playmate!",
       "message": "Looks like our dogs have a lot in common! Want to try having a play date?",
       "read": false,
@@ -1590,7 +1581,7 @@
     {
       "subject": "What's up!",
       "message": "our dogs seem like a match for a playdate.",
-      "read": true,
+      "read": false,
       "recipientId": 2,
       "userId": 6,
       "date": 1624137025072,
@@ -1600,7 +1591,7 @@
       "id": 14,
       "subject": "We live close!",
       "message": "Saw your profile and I think our dogs would get along nicely. I also love to get outdoors and hike so we could possibly do the dog park or a leashed walk if you have any interest. Just let me know!",
-      "read": true,
+      "read": false,
       "recipientId": 2,
       "userId": 7,
       "date": 1624307050566
@@ -1609,19 +1600,19 @@
       "id": 15,
       "subject": "Stella looks like a great playmate!",
       "message": "Sounds great",
-      "read": true,
+      "read": false,
       "recipientId": 7,
       "userId": 2,
       "date": 1624389198215
     },
     {
+      "id": 16,
       "subject": "Let's meet up!",
       "message": "How awesome that we live so close together! Let's set up a play date for sure. Here's my phone number 873-092-8723. Looking forward to meeting you!",
       "read": false,
       "recipientId": 9,
       "userId": 2,
-      "date": 1624546358631,
-      "id": 16
+      "date": 1624546358631
     },
     {
       "subject": "Sounds great!",
@@ -1651,31 +1642,13 @@
       "date": 1624041103861
     },
     {
-      "subject": "If you're ever in Bellevue!",
-      "message": "Hi there! I'm Tammy and have two miniature pups looking for a friend and your boys look like the perfect match! If you're interested in a play date let me know and we can set something up :) Cheers!",
-      "read": false,
-      "recipientId": 15,
-      "userId": 33,
-      "date": 1625493488951,
-      "id": 20
-    },
-    {
-      "subject": "Could meet at a park in downtown?",
-      "message": "Hey there, I saw Argos's profile and I think he and his brother would be a great match for my dogs. Plus we have some similar interests. Let me know if you're down to get together!",
-      "read": false,
-      "recipientId": 15,
-      "userId": 31,
-      "date": 1625493652479,
-      "id": 21
-    },
-    {
+      "id": 22,
       "subject": "Hey friend!",
       "message": "Kali and Jax are in need of some playmates and your pups seem like a great match. Would you be interested in meeting up for a playdate this Saturday? There's a dog park within Percy Warner. Let me know!",
-      "read": false,
+      "read": true,
       "recipientId": 15,
       "userId": 29,
-      "date": 1625493821366,
-      "id": 22
+      "date": 1625598707070
     },
     {
       "subject": "Hey Ken!",
@@ -1685,6 +1658,141 @@
       "userId": 15,
       "date": 1625494404434,
       "id": 23
+    },
+    {
+      "subject": "Would love to meet up!",
+      "message": "Hey Jenny! I just moved to Bellevue and would love to get out and explore some new dog parks and make new friends, and my pups are in dire need of some playmates. Sounds like everyone would get along and Saturday works for me. Let’s connect and talk time! \n",
+      "read": false,
+      "recipientId": 29,
+      "userId": 15,
+      "date": 1625604414891,
+      "id": 24
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "Hey Ken! I’m new to the area and have two rambunctious pups that I think would love to run around with Stella. I’ve heard about some parks around here but if you have any other idea of where to meet up let me know. Looking forward to hearing from you!\n",
+      "read": false,
+      "recipientId": 4,
+      "userId": 15,
+      "date": 1625604489522,
+      "id": 25
+    },
+    {
+      "subject": "Hey!",
+      "message": "Our dogs look like they'll be a great match!",
+      "read": false,
+      "recipientId": 4,
+      "userId": 15,
+      "date": 1625606132928,
+      "id": 29
+    },
+    {
+      "subject": "Does this message take me back to the location with the ID",
+      "message": "Did this message go through?",
+      "read": false,
+      "recipientId": 8,
+      "userId": 15,
+      "date": 1625606354227,
+      "id": 30
+    },
+    {
+      "subject": "Does it still work?",
+      "message": "Did this message take me back to the location?",
+      "read": false,
+      "recipientId": 20,
+      "userId": 15,
+      "date": 1625606381410,
+      "id": 31
+    },
+    {
+      "subject": "Would love to meet up!",
+      "message": "Hey Jenny! I just moved to Bellevue and would love to get out and explore some new dog parks and make new friends, and my pups are in dire need of some playmates. Sounds like everyone would get along and Saturday works for me. Let’s connect and talk time! ",
+      "read": false,
+      "recipientId": 29,
+      "userId": 15,
+      "date": 1625672192521,
+      "id": 32
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "Hey Ken! I’m new to the area and have two rambunctious pups that I think would love to run around with Stella. I’ve heard about some parks around here but if you have any other idea of where to meet up let me know. Looking forward to hearing from you!\n",
+      "read": false,
+      "recipientId": 4,
+      "userId": 15,
+      "date": 1625672278145,
+      "id": 33
+    },
+    {
+      "id": 34,
+      "subject": "Looks like our pups would have fun!",
+      "message": "Looks like we live close together! I'm free this weekend if you want to try and meet up. Looking forward to meeting you!",
+      "read": false,
+      "recipientId": 9,
+      "userId": 6,
+      "date": 1626640783161
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "Looking to make new friends in Bellevue! Would love to meet up and have a doggy playdate! Let me know if you're interested. :)",
+      "read": false,
+      "recipientId": 24,
+      "userId": 9,
+      "date": 1626646867300,
+      "id": 35
+    },
+    {
+      "subject": "Would love to meet up!",
+      "message": "I'm free this weekend too! Let's totally get together.",
+      "read": false,
+      "recipientId": 6,
+      "userId": 9,
+      "date": 1626646899215,
+      "id": 36
+    },
+    {
+      "subject": "Would love to meet up!",
+      "message": "I just moved to Bellevue and would love to get out and explore some new dog parks and make new friends, and my pups are in dire need of some playmates. Sounds like everyone would get along and Saturday works for me. Let’s connect and talk time! \n",
+      "read": false,
+      "recipientId": 24,
+      "userId": 9,
+      "date": 1626647633051,
+      "id": 37
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "Hey Ken! I’m new to the area and have two rambunctious pups that I think would love to run around with Stella. I’ve heard about some parks around here but if you have any other idea of where to meet up let me know. Looking forward to hearing from you!\n",
+      "read": false,
+      "recipientId": 6,
+      "userId": 9,
+      "date": 1626647653690,
+      "id": 38
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "Hey! I’m new to the area and have two rambunctious pups that I think would love to run around with Stella. I’ve heard about some parks around here but if you have any other idea of where to meet up let me know. Looking forward to hearing from you!\n",
+      "read": false,
+      "recipientId": 4,
+      "userId": 15,
+      "date": 1626647923442,
+      "id": 39
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "I just moved to Bellevue and would love to get out and explore some new dog parks and make new friends, and my pups are in dire need of some playmates. Sounds like everyone would get along and Saturday works for me. Let’s connect and talk time! \n",
+      "read": false,
+      "recipientId": 29,
+      "userId": 15,
+      "date": 1626647941699,
+      "id": 40
+    },
+    {
+      "subject": "New to Bellevue and looking to make friends!",
+      "message": "Lets meet up!",
+      "read": false,
+      "recipientId": 24,
+      "userId": 15,
+      "date": 1626648233856,
+      "id": 41
     }
   ]
 }
