@@ -1,6 +1,6 @@
 ## Barkbook Server 
 
-#### Prerequisites
+### Prerequisites
 • Install JSON Server
 ```
 npm i json-server
@@ -10,7 +10,7 @@ npm i json-server
 
 [Click Here](https://github.com/anmonzi/barkbook)
 
-#### Demo
+## Demo
 To access the sample database and quickly demo the application as an existing user...
 
 1. Clone this repository and change to the directory in the terminal.
